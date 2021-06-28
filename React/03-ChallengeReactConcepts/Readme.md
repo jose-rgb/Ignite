@@ -1,8 +1,8 @@
-<h1> 💻 Sobre o desafio</h1>
+<h1> 💻 About the challenge</h1>
 
 consists of creating an application to train what you have learned so far in ReactJS.
 
-Where your main objective is a small to-do application, to train a little more about handling the state in React.
+Where the main objective is a small to-do app, to train a little more on how to deal with the state in React.
 
 having as main activities:
 <ul>
